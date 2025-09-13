@@ -11,7 +11,7 @@
 ## EZF
 
 Global Era_ZombieBase (use in all mods)
-[Era_ZombieBase](https://github.com/atonce-original/Erapulsar_Zombies_CE/tree/main/EZF/)
+[Era_ZombieBase](https://github.com/atonce-original/Erapulsar_Zombies_CE/tree/main/EZF/Moding%20files/zombies_base)
 
 ## Server side mod Expansion
 
