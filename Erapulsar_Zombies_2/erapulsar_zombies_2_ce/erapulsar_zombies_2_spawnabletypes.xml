@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<spawnabletypes>
+	<type name="Era_Zombies_2_Prawn_1">
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+		<attachments preset="hatsEraZmb" />
+		<attachments preset="bagsEraZmb" />
+		<attachments preset="vestsEraZmb" />
+	</type>
+	<type name="Era_Zombies_2_Prawn_2">
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+		<attachments preset="hatsEraZmb" />
+		<attachments preset="bagsEraZmb" />
+		<attachments preset="vestsEraZmb" />
+	</type>
+	<type name="Era_Zombies_2_Prawn_3">
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+		<attachments preset="hatsEraZmb" />
+		<attachments preset="bagsEraZmb" />
+		<attachments preset="vestsEraZmb" />
+	</type>
+	<type name="Era_Zombies_2_Prawn_4">
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+		<attachments preset="hatsEraZmb" />
+		<attachments preset="bagsEraZmb" />
+		<attachments preset="vestsEraZmb" />
+	</type>
+	<type name="Era_Zombies_2_Prawn_5">
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+		<attachments preset="hatsEraZmb" />
+		<attachments preset="bagsEraZmb" />
+		<attachments preset="vestsEraZmb" />
+	</type>
+	<type name="Era_Zombies_2_Hazmatsuit_Red">
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+		<attachments preset="hatsEraZmb" />
+		<attachments preset="bagsEraZmb" />
+		<attachments preset="vestsEraZmb" />
+	</type>
+	<type name="Era_Zombies_2_Hazmatsuit_Green">
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+		<attachments preset="hatsEraZmb" />
+		<attachments preset="bagsEraZmb" />
+		<attachments preset="vestsEraZmb" />
+	</type>
+	<type name="Era_Zombies_2_Infected">
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+		<attachments preset="hatsEraZmb" />
+		<attachments preset="bagsEraZmb" />
+		<attachments preset="vestsEraZmb" />
+	</type>
+	<type name="Era_Zombies_2_Comrade">
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+		<attachments preset="hatsEraZmb" />
+		<attachments preset="bagsEraZmb" />
+		<attachments preset="vestsEraZmb" />
+	</type>
+	<type name="Era_Zombies_2_NavyAdmiral">
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+		<attachments preset="hatsEraZmb" />
+		<attachments preset="bagsEraZmb" />
+		<attachments preset="vestsEraZmb" />
+	</type>
+	<type name="Era_Zombies_2_Pighead">
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+		<attachments preset="hatsEraZmb" />
+		<attachments preset="bagsEraZmb" />
+		<attachments preset="vestsEraZmb" />
+	</type>
+	<type name="Era_Zombies_2_Rhino">
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+		<attachments preset="hatsEraZmb" />
+		<attachments preset="bagsEraZmb" />
+		<attachments preset="vestsEraZmb" />
+	</type>
+	<type name="Era_Zombies_2_Robed">
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+		<attachments preset="hatsEraZmb" />
+		<attachments preset="bagsEraZmb" />
+		<attachments preset="vestsEraZmb" />
+	</type>
+	<type name="Era_Zombies_2_ShadowyFigure">
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+		<attachments preset="hatsEraZmb" />
+		<attachments preset="bagsEraZmb" />
+		<attachments preset="vestsEraZmb" />
+	</type>
+	<type name="Era_Zombies_2_Sloth">
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+		<attachments preset="hatsEraZmb" />
+		<attachments preset="bagsEraZmb" />
+		<attachments preset="vestsEraZmb" />
+	</type>
+	<type name="Era_Zombies_2_Twins">
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+		<attachments preset="hatsEraZmb" />
+		<attachments preset="bagsEraZmb" />
+		<attachments preset="vestsEraZmb" />
+	</type> 
+</spawnabletypes>
