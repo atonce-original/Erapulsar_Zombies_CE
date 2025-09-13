@@ -5,7 +5,7 @@ class CfgPatches
 		units[]= {"Hermit_NewAI","ZmbM_Lite_Base","ZmbM_GO_Base_Base","ZmbM_Hard_Base"};
 		weapons[]={};
 		requiredVersion=0.1;
-		requiredAddons[]= {"DZ_Characters","Erapulsar_Zombies_Client"};
+		requiredAddons[]= {"DZ_Characters","Erapulsar_Zombies_Client","EZF_Era_ZombieBase"};
 	};
 };
 class CfgMods 
